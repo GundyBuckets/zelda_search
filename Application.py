@@ -1,5 +1,5 @@
 import tkinter as tk
-# import zelda_query as query
+// Make sure to import the new query file once it is finished, in the meantime this file will give many warnings saying the queries don't exist
 
 class Application(tk.Frame):
     def __init__(self, master=None):
